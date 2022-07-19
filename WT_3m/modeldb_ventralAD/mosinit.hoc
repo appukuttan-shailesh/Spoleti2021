@@ -1,4 +1,4 @@
-load_file("nrngui.hoc")
+// load_file("nrngui.hoc")
 load_file("cell_seed2_0.hoc")
 cvode_active(1)
 objref testcell, stim, stim2
@@ -278,4 +278,4 @@ biophysint()
 
 WT_3m()
 
-load_file("ses.ses")
+// load_file("ses.ses")

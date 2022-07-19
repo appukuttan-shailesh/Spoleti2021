@@ -11,7 +11,7 @@ class ModelLoader(sciunit.Model,
 
     def __init__(self, name="WT_8m", hoc_path=None, template_name=None, mod_files_path=None):
         """ Constructor. """
-        # ModelLoader(hoc_path="./modeldb_ventralAD/cell_seed2_0.hoc", template_name="test_Wt", mod_files_path="./modeldb_ventralAD")
+        # ModelLoader(hoc_path="./modeldb_ventralAD/cell_seed2_0.hoc", mod_files_path="./modeldb_ventralAD")
 
         """ This class should be used with Jupyter notebooks"""
         self.name = name
@@ -23,8 +23,9 @@ class ModelLoader(sciunit.Model,
         self.template_name = template_name
         self.base_directory = './validation_results/'   # inside current directory
 
-        self.soma = None # remove?
-        self.SomaSecList_name = "somatic"
+        self.soma = "testcell.soma[0]"
+        self.SomaSecList_name = None
+        # self.SomaSecList_name = "somatic"
         self.v_init = -70
         self.celsius = 25
 
@@ -97,6 +98,7 @@ class ModelLoader(sciunit.Model,
         except Exception:
             print("If a model template is used, please give the name of the template to be instantiated (with parameters, if any). Eg. model.template_name=CCell(\"morph_path\")")
             raise
+        # h.psection(self.soma)
         sys.stdout = save_stdout  # setting output back to normal
 
     def inject_current(self, amp, delay, dur, section_stim, loc_stim, section_rec, loc_rec):
@@ -140,6 +142,7 @@ class ModelLoader(sciunit.Model,
         h.celsius = self.celsius
         h.init()
         h.tstop = delay + dur + 200
+        # h.psection(self.soma)
         h.run()
 
         t = numpy.array(rec_t)
