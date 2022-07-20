@@ -1,0 +1,8 @@
+{
+    "test_id": "e06e9657-3ac7-469b-99be-6e21a6a78785",
+    "test_instance_id": "d4dbdbe4-4601-4029-886f-d7ed2455e045",
+    "test_instance_path": "hippounit.tests.APFrequencyTest",
+    "test_instance_parameters": null,
+    "test_observation_file": "expData_fI_WT_3m.json",
+    "params": {}
+}

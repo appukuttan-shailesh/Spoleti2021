@@ -1,87 +1,87 @@
 [
   {
-    "i_inj": "-0.2",
-    "mean": "0",
-    "std": "0"
+    "i_inj": "-0.2 nA",
+    "mean": "0 Hz",
+    "std": "0 Hz"
   },
   {
-    "i_inj": "-0.15",
-    "mean": "0",
-    "std": "0"
+    "i_inj": "-0.15 nA",
+    "mean": "0 Hz",
+    "std": "0 Hz"
   },
   {
-    "i_inj": "-0.1",
-    "mean": "0",
-    "std": "0"
+    "i_inj": "-0.1 nA",
+    "mean": "0 Hz",
+    "std": "0 Hz"
   },
   {
-    "i_inj": "-0.05",
-    "mean": "0",
-    "std": "0"
+    "i_inj": "-0.05 nA",
+    "mean": "0 Hz",
+    "std": "0 Hz"
   },
   {
-    "i_inj": "0",
-    "mean": "0",
-    "std": "0"
+    "i_inj": "0 nA",
+    "mean": "0 Hz",
+    "std": "0 Hz"
   },
   {
-    "i_inj": "0.05",
-    "mean": "0",
-    "std": "0"
+    "i_inj": "0.05 nA",
+    "mean": "0 Hz",
+    "std": "0 Hz"
   },
   {
-    "i_inj": "0.1",
-    "mean": "0",
-    "std": "0"
+    "i_inj": "0.1 nA",
+    "mean": "0 Hz",
+    "std": "0 Hz"
   },
   {
-    "i_inj": "0.15",
-    "mean": "0.66",
-    "std": "0.72"
+    "i_inj": "0.15 nA",
+    "mean": "0.66 Hz",
+    "std": "0.72 Hz"
   },
   {
-    "i_inj": "0.2",
-    "mean": "4.88",
-    "std": "0.98"
+    "i_inj": "0.2 nA",
+    "mean": "4.88 Hz",
+    "std": "0.98 Hz"
   },
   {
-    "i_inj": "0.25",
-    "mean": "9.06",
-    "std": "1.1"
+    "i_inj": "0.25 nA",
+    "mean": "9.06 Hz",
+    "std": "1.1 Hz"
   },
   {
-    "i_inj": "0.3",
-    "mean": "11.35",
-    "std": "0.98"
+    "i_inj": "0.3 nA",
+    "mean": "11.35 Hz",
+    "std": "0.98 Hz"
   },
   {
-    "i_inj": "0.35",
-    "mean": "13.16",
-    "std": "0.96"
+    "i_inj": "0.35 nA",
+    "mean": "13.16 Hz",
+    "std": "0.96 Hz"
   },
   {
-    "i_inj": "0.4",
-    "mean": "13.18",
-    "std": "1.06"
+    "i_inj": "0.4 nA",
+    "mean": "13.18 Hz",
+    "std": "1.06 Hz"
   },
   {
-    "i_inj": "0.45",
-    "mean": "12.03",
-    "std": "0.96"
+    "i_inj": "0.45 nA",
+    "mean": "12.03 Hz",
+    "std": "0.96 Hz"
   },
   {
-    "i_inj": "0.5",
-    "mean": "12.03",
-    "std": "1.02"
+    "i_inj": "0.5 nA",
+    "mean": "12.03 Hz",
+    "std": "1.02 Hz"
   },
   {
-    "i_inj": "0.55",
-    "mean": "8.55",
-    "std": "1.7"
+    "i_inj": "0.55 nA",
+    "mean": "8.55 Hz",
+    "std": "1.7 Hz"
   },
   {
-    "i_inj": "0.6",
-    "mean": "7.7",
-    "std": "1.76"
+    "i_inj": "0.6 nA",
+    "mean": "7.7 Hz",
+    "std": "1.76 Hz"
   }
 ]

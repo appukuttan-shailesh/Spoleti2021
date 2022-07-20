@@ -1,0 +1,160 @@
+{
+    "observation": [
+        {
+            "i_inj": "-0.2 nA",
+            "mean": "0.0 Hz",
+            "std": "0.0 Hz"
+        },
+        {
+            "i_inj": "-0.15 nA",
+            "mean": "0.0 Hz",
+            "std": "0.0 Hz"
+        },
+        {
+            "i_inj": "-0.1 nA",
+            "mean": "0.0 Hz",
+            "std": "0.0 Hz"
+        },
+        {
+            "i_inj": "-0.05 nA",
+            "mean": "0.0 Hz",
+            "std": "0.0 Hz"
+        },
+        {
+            "i_inj": "0.0 nA",
+            "mean": "0.0 Hz",
+            "std": "0.0 Hz"
+        },
+        {
+            "i_inj": "0.05 nA",
+            "mean": "0.0 Hz",
+            "std": "0.0 Hz"
+        },
+        {
+            "i_inj": "0.1 nA",
+            "mean": "1.0 Hz",
+            "std": "0.7 Hz"
+        },
+        {
+            "i_inj": "0.15 nA",
+            "mean": "4.01 Hz",
+            "std": "1.74 Hz"
+        },
+        {
+            "i_inj": "0.2 nA",
+            "mean": "7.14 Hz",
+            "std": "2.62 Hz"
+        },
+        {
+            "i_inj": "0.25 nA",
+            "mean": "10.68 Hz",
+            "std": "2.91 Hz"
+        },
+        {
+            "i_inj": "0.3 nA",
+            "mean": "13.5 Hz",
+            "std": "2.45 Hz"
+        },
+        {
+            "i_inj": "0.35 nA",
+            "mean": "15.53 Hz",
+            "std": "2.43 Hz"
+        },
+        {
+            "i_inj": "0.4 nA",
+            "mean": "15.83 Hz",
+            "std": "2.45 Hz"
+        },
+        {
+            "i_inj": "0.45 nA",
+            "mean": "16.35 Hz",
+            "std": "3.7 Hz"
+        },
+        {
+            "i_inj": "0.5 nA",
+            "mean": "16.84 Hz",
+            "std": "3.72 Hz"
+        },
+        {
+            "i_inj": "0.55 nA",
+            "mean": "16.16 Hz",
+            "std": "3.19 Hz"
+        },
+        {
+            "i_inj": "0.6 nA",
+            "mean": "16.84 Hz",
+            "std": "3.33 Hz"
+        }
+    ],
+    "prediction": [
+        {
+            "i_inj": "-0.2 nA",
+            "freq": "0.0 Hz"
+        },
+        {
+            "i_inj": "-0.15 nA",
+            "freq": "0.0 Hz"
+        },
+        {
+            "i_inj": "-0.1 nA",
+            "freq": "0.0 Hz"
+        },
+        {
+            "i_inj": "-0.05 nA",
+            "freq": "0.0 Hz"
+        },
+        {
+            "i_inj": "0.0 nA",
+            "freq": "0.0 Hz"
+        },
+        {
+            "i_inj": "0.05 nA",
+            "freq": "0.0 Hz"
+        },
+        {
+            "i_inj": "0.1 nA",
+            "freq": "0.0 Hz"
+        },
+        {
+            "i_inj": "0.15 nA",
+            "freq": "2.0 Hz"
+        },
+        {
+            "i_inj": "0.2 nA",
+            "freq": "4.0 Hz"
+        },
+        {
+            "i_inj": "0.25 nA",
+            "freq": "7.0 Hz"
+        },
+        {
+            "i_inj": "0.3 nA",
+            "freq": "9.0 Hz"
+        },
+        {
+            "i_inj": "0.35 nA",
+            "freq": "11.0 Hz"
+        },
+        {
+            "i_inj": "0.4 nA",
+            "freq": "6.0 Hz"
+        },
+        {
+            "i_inj": "0.45 nA",
+            "freq": "1.0 Hz"
+        },
+        {
+            "i_inj": "0.5 nA",
+            "freq": "1.0 Hz"
+        },
+        {
+            "i_inj": "0.55 nA",
+            "freq": "1.0 Hz"
+        },
+        {
+            "i_inj": "0.6 nA",
+            "freq": "2.0 Hz"
+        }
+    ],
+    "score": "1.79"
+}

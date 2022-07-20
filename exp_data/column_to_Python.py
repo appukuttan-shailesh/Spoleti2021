@@ -13,10 +13,10 @@ output = []
 for idx, item in enumerate(b):
   print(item[0])
   output.append({
-    "i_inj": item[0],
-    "mean": item[1],
-    "std": item[2]
+    "i_inj": item[0] + " nA",
+    "mean": item[1] + " Hz",
+    "std": item[2] + " Hz"
   })
 
 import json
-json.dumps(output)
+print(json.dumps(output))
